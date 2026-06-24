@@ -15,7 +15,7 @@ from dashboard.components.pipeline import render_pipeline
 from dashboard.components.copilot import render_copilot
 from dashboard.components.overview import render_overview
 from dashboard.components.trading import render_trading
-from data.loader import TICKERS
+TICKERS = ["MRNA", "PFE", "BNTX", "NVAX", "GILD", "AMGN"]
 
 # --------------------------------------------------------
 # 1. STREAMLIT APP CONFIGURATION & STYLING

@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
 import os
-from data.loader import TICKERS
+TICKERS = ["MRNA", "PFE", "BNTX", "NVAX", "GILD", "AMGN"]
 
 def render_trading(selected_ticker: str, backtest_df: pd.DataFrame):
     st.markdown(f"### 📊 Simulated Paper Trading: {selected_ticker}")
