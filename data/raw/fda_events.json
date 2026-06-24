@@ -1,0 +1,946 @@
+[
+    {
+        "date": "2015-11-25",
+        "ticker": "MRNA",
+        "text": "FDA Drug Recall: Recalling firm Kalman Health & Wellness, Inc. dba Essential Wellness Pharma. Reason: Lack of Assurance of Sterility:  A recall of all compounded sterile preparations within expiry is being initiated due to observations associated with poor sterile production practices resulting in a lack of sterility assurance for their finished drugs.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "OpenFDA API"
+    },
+    {
+        "date": "2020-11-25",
+        "ticker": "GILD",
+        "text": "FDA Drug Recall: Recalling firm Albek De Mexico S.A. De C.V.. Reason: CGMP Deviations: Next Advanced Antibacterial Hand Sanitizer was found to be below the label claim for ethanol content and contained methanol. Other products were recalled because they were manufactured in the same facility as the product found to contain methanol.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "OpenFDA API"
+    },
+    {
+        "date": "2025-11-05",
+        "ticker": "NVAX",
+        "text": "FDA Drug Recall: Recalling firm ProRx LLC. Reason: Lack of Assurance of Sterility",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "OpenFDA API"
+    },
+    {
+        "date": "2020-06-10",
+        "ticker": "NVAX",
+        "text": "FDA Drug Recall: Recalling firm Teva Pharmaceuticals USA. Reason: Some bottles may contain mixed strengths of the product.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "OpenFDA API"
+    },
+    {
+        "date": "2022-03-02",
+        "ticker": "PFE",
+        "text": "FDA Drug Recall: Recalling firm Perrigo Company PLC. Reason: CGMP Deviations: Products were manufactured with contaminated excipient that was recalled from the excipient supplier.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "OpenFDA API"
+    },
+    {
+        "date": "2016-07-27",
+        "ticker": "BNTX",
+        "text": "FDA Drug Recall: Recalling firm Pharmedium Services, LLC. Reason: Presence of Particulate Matter: API contaminated with glass particulate was used to produce sterile injectable drugs.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "OpenFDA API"
+    },
+    {
+        "date": "2014-07-23",
+        "ticker": "PFE",
+        "text": "FDA Drug Recall: Recalling firm Pfizer Inc.. Reason: Labeling: Incorrect or missing lot and or Exp Date: The bottles were labeled with an incorrect expiry date 11/2016.  The correct expiry date is 09/2016.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "OpenFDA API"
+    },
+    {
+        "date": "2024-07-10",
+        "ticker": "BNTX",
+        "text": "FDA Drug Recall: Recalling firm Little Moon Essentials LLC. Reason: CGMP deviations",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "OpenFDA API"
+    },
+    {
+        "date": "2018-11-07",
+        "ticker": "PFE",
+        "text": "FDA Drug Recall: Recalling firm Pharm D Solutions, LLC. Reason: Lack of Assurance of Sterility",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "OpenFDA API"
+    },
+    {
+        "date": "2013-10-09",
+        "ticker": "BNTX",
+        "text": "FDA Drug Recall: Recalling firm AmeriSource Bergen. Reason: Temperature abuse: Certain vials of Ifosfamide IV products were not refrigerated at certain Amerisource Bergen Drug Corp distribution centers.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "OpenFDA API"
+    },
+    {
+        "date": "2024-01-24",
+        "ticker": "GILD",
+        "text": "Gilead Sciences shares dip as revenue falls short of estimates by 6% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-01-24",
+        "ticker": "AMGN",
+        "text": "Amgen Inc. shares dip as revenue falls short of estimates by 10% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-02-06",
+        "ticker": "PFE",
+        "text": "FDA approves Pfizer Inc.'s Comirnaty for treatment of Non-Small Cell Lung Cancer.",
+        "event_type": "FDA Approval",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-02-15",
+        "ticker": "PFE",
+        "text": "Pfizer Inc. shares dip as revenue falls short of estimates by 20% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-03-05",
+        "ticker": "BNTX",
+        "text": "BioNTech SE's LipoVacc meets primary efficacy endpoints in Phase 3 clinical trial for Rheumatoid Arthritis.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-03-08",
+        "ticker": "AMGN",
+        "text": "Amgen Inc. reports stellar quarterly earnings beating Wall Street revenue estimates by 7%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-03-15",
+        "ticker": "BNTX",
+        "text": "BioNTech SE reports stellar quarterly earnings beating Wall Street revenue estimates by 15%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-04-12",
+        "ticker": "AMGN",
+        "text": "Amgen Inc. announces Phase 3 trial of Repatha for Type 2 Diabetes failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-04-16",
+        "ticker": "AMGN",
+        "text": "Amgen Inc. reports stellar quarterly earnings beating Wall Street revenue estimates by 8%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-04-23",
+        "ticker": "PFE",
+        "text": "Pfizer Inc.'s Comirnaty meets primary efficacy endpoints in Phase 3 clinical trial for Rheumatoid Arthritis.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-05-08",
+        "ticker": "PFE",
+        "text": "Pfizer Inc. reports stellar quarterly earnings beating Wall Street revenue estimates by 25%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-05-15",
+        "ticker": "PFE",
+        "text": "FDA announces voluntary recall of Pfizer Inc.'s Paxlovid batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-05-24",
+        "ticker": "MRNA",
+        "text": "FDA issues safety warning on Moderna Inc.'s CancerVacc-3 due to adverse severe allergic reactions reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-05-30",
+        "ticker": "NVAX",
+        "text": "Novavax Inc. announces Phase 3 trial of FluNano for Severe RSV Infections failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-07-08",
+        "ticker": "NVAX",
+        "text": "FDA issues safety warning on Novavax Inc.'s ComboVax due to adverse severe allergic reactions reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-07-12",
+        "ticker": "BNTX",
+        "text": "FDA issues safety warning on BioNTech SE's LipoVacc due to adverse migraine complications reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-08-02",
+        "ticker": "BNTX",
+        "text": "BioNTech SE's BNT162b2 meets primary efficacy endpoints in Phase 3 clinical trial for Type 2 Diabetes.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-08-23",
+        "ticker": "PFE",
+        "text": "Pfizer Inc.'s Comirnaty meets primary efficacy endpoints in Phase 3 clinical trial for Type 2 Diabetes.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-09-16",
+        "ticker": "NVAX",
+        "text": "FDA approves Novavax Inc.'s NVX-CoV2373 for treatment of Non-Small Cell Lung Cancer.",
+        "event_type": "FDA Approval",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-10-09",
+        "ticker": "NVAX",
+        "text": "FDA approves Novavax Inc.'s FluNano for treatment of Chronic Heart Failure.",
+        "event_type": "FDA Approval",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-10-11",
+        "ticker": "NVAX",
+        "text": "Novavax Inc. shares dip as revenue falls short of estimates by 15% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-10-15",
+        "ticker": "MRNA",
+        "text": "Moderna Inc. reports stellar quarterly earnings beating Wall Street revenue estimates by 24%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-10-15",
+        "ticker": "PFE",
+        "text": "Pfizer Inc. reports stellar quarterly earnings beating Wall Street revenue estimates by 15%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-10-23",
+        "ticker": "GILD",
+        "text": "Gilead Sciences reports stellar quarterly earnings beating Wall Street revenue estimates by 11%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-10-25",
+        "ticker": "BNTX",
+        "text": "FDA announces voluntary recall of BioNTech SE's CAR-T-900 batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-11-08",
+        "ticker": "GILD",
+        "text": "Gilead Sciences announces Phase 3 trial of Lenacapavir for Severe RSV Infections failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-11-15",
+        "ticker": "AMGN",
+        "text": "Amgen Inc.'s Lumakras meets primary efficacy endpoints in Phase 3 clinical trial for Rheumatoid Arthritis.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-11-19",
+        "ticker": "GILD",
+        "text": "FDA issues safety warning on Gilead Sciences's Trodelvy due to adverse severe allergic reactions reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-11-21",
+        "ticker": "PFE",
+        "text": "Pfizer Inc. announces Phase 3 trial of OncoShield for Alzheimer's Disease failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-11-27",
+        "ticker": "NVAX",
+        "text": "Novavax Inc. shares dip as revenue falls short of estimates by 17% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-11-28",
+        "ticker": "MRNA",
+        "text": "Moderna Inc. announces Phase 3 trial of mRNA-1273 for Non-Small Cell Lung Cancer failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-11-28",
+        "ticker": "GILD",
+        "text": "FDA approves Gilead Sciences's Trodelvy for treatment of Severe RSV Infections.",
+        "event_type": "FDA Approval",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2024-12-10",
+        "ticker": "GILD",
+        "text": "Gilead Sciences reports stellar quarterly earnings beating Wall Street revenue estimates by 14%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-01-09",
+        "ticker": "BNTX",
+        "text": "BioNTech SE announces Phase 3 trial of BNT162b2 for Chronic Heart Failure failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-01-10",
+        "ticker": "AMGN",
+        "text": "FDA announces voluntary recall of Amgen Inc.'s Repatha batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-01-29",
+        "ticker": "AMGN",
+        "text": "Amgen Inc.'s Lumakras meets primary efficacy endpoints in Phase 3 clinical trial for Type 2 Diabetes.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-01-31",
+        "ticker": "MRNA",
+        "text": "Moderna Inc. reports stellar quarterly earnings beating Wall Street revenue estimates by 11%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-02-04",
+        "ticker": "MRNA",
+        "text": "Moderna Inc. reports stellar quarterly earnings beating Wall Street revenue estimates by 7%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-02-07",
+        "ticker": "AMGN",
+        "text": "FDA issues safety warning on Amgen Inc.'s Tepezza due to adverse liver toxicity reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-02-13",
+        "ticker": "NVAX",
+        "text": "FDA announces voluntary recall of Novavax Inc.'s NVX-CoV2373 batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-02-18",
+        "ticker": "GILD",
+        "text": "Gilead Sciences's Trodelvy meets primary efficacy endpoints in Phase 3 clinical trial for Type 2 Diabetes.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-02-19",
+        "ticker": "MRNA",
+        "text": "FDA issues safety warning on Moderna Inc.'s mRNA-1273 due to adverse liver toxicity reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-02-28",
+        "ticker": "PFE",
+        "text": "Pfizer Inc.'s Paxlovid meets primary efficacy endpoints in Phase 3 clinical trial for Severe RSV Infections.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-03-26",
+        "ticker": "AMGN",
+        "text": "Amgen Inc. shares dip as revenue falls short of estimates by 14% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-03-28",
+        "ticker": "NVAX",
+        "text": "FDA issues safety warning on Novavax Inc.'s NVX-CoV2373 due to adverse severe allergic reactions reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-04-07",
+        "ticker": "BNTX",
+        "text": "BioNTech SE shares dip as revenue falls short of estimates by 15% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-04-11",
+        "ticker": "GILD",
+        "text": "Gilead Sciences announces Phase 3 trial of Veklury for Type 2 Diabetes failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-04-16",
+        "ticker": "BNTX",
+        "text": "FDA announces voluntary recall of BioNTech SE's CAR-T-900 batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-04-28",
+        "ticker": "NVAX",
+        "text": "FDA announces voluntary recall of Novavax Inc.'s NVX-CoV2373 batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-04-30",
+        "ticker": "PFE",
+        "text": "Pfizer Inc.'s Paxlovid meets primary efficacy endpoints in Phase 3 clinical trial for Rheumatoid Arthritis.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-05-07",
+        "ticker": "MRNA",
+        "text": "Moderna Inc.'s RSV-mRNA meets primary efficacy endpoints in Phase 3 clinical trial for Type 2 Diabetes.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-05-09",
+        "ticker": "MRNA",
+        "text": "FDA announces voluntary recall of Moderna Inc.'s mRNA-1273 batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-05-14",
+        "ticker": "AMGN",
+        "text": "Amgen Inc. reports stellar quarterly earnings beating Wall Street revenue estimates by 11%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-05-23",
+        "ticker": "GILD",
+        "text": "Gilead Sciences reports stellar quarterly earnings beating Wall Street revenue estimates by 13%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-06-06",
+        "ticker": "GILD",
+        "text": "FDA approves Gilead Sciences's Trodelvy for treatment of Type 2 Diabetes.",
+        "event_type": "FDA Approval",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-06-12",
+        "ticker": "NVAX",
+        "text": "Novavax Inc. shares dip as revenue falls short of estimates by 9% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-06-12",
+        "ticker": "NVAX",
+        "text": "Novavax Inc. shares dip as revenue falls short of estimates by 10% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-06-20",
+        "ticker": "GILD",
+        "text": "Gilead Sciences's Lenacapavir meets primary efficacy endpoints in Phase 3 clinical trial for Non-Small Cell Lung Cancer.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-06-27",
+        "ticker": "MRNA",
+        "text": "FDA approves Moderna Inc.'s mRNA-1273 for treatment of Severe RSV Infections.",
+        "event_type": "FDA Approval",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-07-03",
+        "ticker": "AMGN",
+        "text": "FDA announces voluntary recall of Amgen Inc.'s Tepezza batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-08-01",
+        "ticker": "PFE",
+        "text": "FDA issues safety warning on Pfizer Inc.'s Comirnaty due to adverse liver toxicity reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-08-05",
+        "ticker": "AMGN",
+        "text": "Amgen Inc. announces Phase 3 trial of Tepezza for Chronic Heart Failure failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-08-05",
+        "ticker": "AMGN",
+        "text": "FDA issues safety warning on Amgen Inc.'s Tepezza due to adverse cardiovascular event risk reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-08-08",
+        "ticker": "MRNA",
+        "text": "Moderna Inc.'s CancerVacc-3 meets primary efficacy endpoints in Phase 3 clinical trial for Severe RSV Infections.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-08-15",
+        "ticker": "PFE",
+        "text": "Pfizer Inc. announces Phase 3 trial of OncoShield for Type 2 Diabetes failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-08-18",
+        "ticker": "PFE",
+        "text": "Pfizer Inc.'s OncoShield meets primary efficacy endpoints in Phase 3 clinical trial for Severe RSV Infections.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-08-22",
+        "ticker": "AMGN",
+        "text": "Amgen Inc. reports stellar quarterly earnings beating Wall Street revenue estimates by 25%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-09-05",
+        "ticker": "MRNA",
+        "text": "Moderna Inc. announces Phase 3 trial of RSV-mRNA for Severe RSV Infections failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-09-10",
+        "ticker": "PFE",
+        "text": "FDA approves Pfizer Inc.'s Comirnaty for treatment of Rheumatoid Arthritis.",
+        "event_type": "FDA Approval",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-09-24",
+        "ticker": "MRNA",
+        "text": "FDA approves Moderna Inc.'s mRNA-1273 for treatment of Alzheimer's Disease.",
+        "event_type": "FDA Approval",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-10-10",
+        "ticker": "NVAX",
+        "text": "FDA announces voluntary recall of Novavax Inc.'s FluNano batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-10-10",
+        "ticker": "AMGN",
+        "text": "Amgen Inc. shares dip as revenue falls short of estimates by 21% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-10-17",
+        "ticker": "MRNA",
+        "text": "FDA issues safety warning on Moderna Inc.'s CancerVacc-3 due to adverse cardiovascular event risk reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-10-20",
+        "ticker": "MRNA",
+        "text": "Moderna Inc. announces Phase 3 trial of mRNA-1273 for Type 2 Diabetes failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-10-24",
+        "ticker": "MRNA",
+        "text": "Moderna Inc. reports stellar quarterly earnings beating Wall Street revenue estimates by 9%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-10-31",
+        "ticker": "GILD",
+        "text": "Gilead Sciences announces Phase 3 trial of Lenacapavir for Non-Small Cell Lung Cancer failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-11-04",
+        "ticker": "AMGN",
+        "text": "FDA announces voluntary recall of Amgen Inc.'s Repatha batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-11-07",
+        "ticker": "PFE",
+        "text": "FDA issues safety warning on Pfizer Inc.'s OncoShield due to adverse liver toxicity reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-11-07",
+        "ticker": "BNTX",
+        "text": "FDA approves BioNTech SE's CAR-T-900 for treatment of Chronic Heart Failure.",
+        "event_type": "FDA Approval",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-11-07",
+        "ticker": "NVAX",
+        "text": "FDA announces voluntary recall of Novavax Inc.'s ComboVax batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-11-10",
+        "ticker": "BNTX",
+        "text": "BioNTech SE reports stellar quarterly earnings beating Wall Street revenue estimates by 15%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-11-26",
+        "ticker": "NVAX",
+        "text": "FDA announces voluntary recall of Novavax Inc.'s NVX-CoV2373 batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-12-04",
+        "ticker": "AMGN",
+        "text": "Amgen Inc. shares dip as revenue falls short of estimates by 17% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-12-10",
+        "ticker": "NVAX",
+        "text": "Novavax Inc. announces Phase 3 trial of NVX-CoV2373 for Type 2 Diabetes failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-12-16",
+        "ticker": "BNTX",
+        "text": "FDA approves BioNTech SE's BNT162b2 for treatment of Type 2 Diabetes.",
+        "event_type": "FDA Approval",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2025-12-30",
+        "ticker": "AMGN",
+        "text": "FDA issues safety warning on Amgen Inc.'s Repatha due to adverse migraine complications reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-01-16",
+        "ticker": "PFE",
+        "text": "FDA announces voluntary recall of Pfizer Inc.'s OncoShield batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-01-19",
+        "ticker": "GILD",
+        "text": "Gilead Sciences shares dip as revenue falls short of estimates by 24% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-01-26",
+        "ticker": "PFE",
+        "text": "Pfizer Inc. announces Phase 3 trial of Paxlovid for Chronic Heart Failure failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-01-26",
+        "ticker": "BNTX",
+        "text": "BioNTech SE's BNT162b2 meets primary efficacy endpoints in Phase 3 clinical trial for Chronic Heart Failure.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-02-02",
+        "ticker": "PFE",
+        "text": "FDA announces voluntary recall of Pfizer Inc.'s Paxlovid batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-02-06",
+        "ticker": "BNTX",
+        "text": "FDA approves BioNTech SE's LipoVacc for treatment of Rheumatoid Arthritis.",
+        "event_type": "FDA Approval",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-02-12",
+        "ticker": "NVAX",
+        "text": "FDA announces voluntary recall of Novavax Inc.'s NVX-CoV2373 batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-02-13",
+        "ticker": "NVAX",
+        "text": "FDA announces voluntary recall of Novavax Inc.'s NVX-CoV2373 batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-02-17",
+        "ticker": "MRNA",
+        "text": "FDA announces voluntary recall of Moderna Inc.'s mRNA-1273 batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-02-18",
+        "ticker": "GILD",
+        "text": "Gilead Sciences reports stellar quarterly earnings beating Wall Street revenue estimates by 22%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-02-27",
+        "ticker": "GILD",
+        "text": "Gilead Sciences announces Phase 3 trial of Trodelvy for Chronic Heart Failure failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-03-10",
+        "ticker": "BNTX",
+        "text": "FDA issues safety warning on BioNTech SE's LipoVacc due to adverse severe allergic reactions reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-03-13",
+        "ticker": "BNTX",
+        "text": "BioNTech SE shares dip as revenue falls short of estimates by 11% due to lower sales.",
+        "event_type": "Earnings Miss",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-03-20",
+        "ticker": "BNTX",
+        "text": "FDA issues safety warning on BioNTech SE's LipoVacc due to adverse migraine complications reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-03-20",
+        "ticker": "NVAX",
+        "text": "Novavax Inc. announces Phase 3 trial of NVX-CoV2373 for Severe RSV Infections failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-03-24",
+        "ticker": "MRNA",
+        "text": "Moderna Inc. reports stellar quarterly earnings beating Wall Street revenue estimates by 15%.",
+        "event_type": "Earnings Beat",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-03-25",
+        "ticker": "BNTX",
+        "text": "FDA announces voluntary recall of BioNTech SE's CAR-T-900 batch due to manufacturing issues.",
+        "event_type": "Drug Recall",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-04-03",
+        "ticker": "MRNA",
+        "text": "Moderna Inc. announces Phase 3 trial of RSV-mRNA for Severe RSV Infections failed to meet primary endpoints.",
+        "event_type": "Clinical Trial Failure",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-04-08",
+        "ticker": "GILD",
+        "text": "Gilead Sciences's Veklury meets primary efficacy endpoints in Phase 3 clinical trial for Rheumatoid Arthritis.",
+        "event_type": "Clinical Trial Success",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-04-08",
+        "ticker": "GILD",
+        "text": "FDA approves Gilead Sciences's Veklury for treatment of Severe RSV Infections.",
+        "event_type": "FDA Approval",
+        "sentiment": "positive",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-05-07",
+        "ticker": "GILD",
+        "text": "FDA issues safety warning on Gilead Sciences's Lenacapavir due to adverse severe allergic reactions reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    },
+    {
+        "date": "2026-05-11",
+        "ticker": "BNTX",
+        "text": "FDA issues safety warning on BioNTech SE's LipoVacc due to adverse liver toxicity reports.",
+        "event_type": "Safety Warning",
+        "sentiment": "negative",
+        "source": "FDA filings / Press Releases"
+    }
+]
