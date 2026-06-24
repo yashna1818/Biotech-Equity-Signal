@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>AG-BioSignals | Clinical Intelligence</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@stlite/mountable@0.58.0/build/stlite.css" />
+    <style>
+      /* Ensure the page takes full height and fits beautifully */
+      html, body, #root {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        background-color: #F0F6FC;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="https://cdn.jsdelivr.net/npm/@stlite/mountable@0.58.0/build/stlite.js"></script>
+    <script>
+      stlite.mount({
+        requirements: ["pandas", "plotly"],
+        entrypoint: "dashboard/app.py",
+        files: {
+          "dashboard/app.py": { url: "dashboard/app.py" },
+          "dashboard/components/__init__.py": { url: "dashboard/components/__init__.py" },
+          "dashboard/components/terminal.py": { url: "dashboard/components/terminal.py" },
+          "dashboard/components/analytics.py": { url: "dashboard/components/analytics.py" },
+          "dashboard/components/news.py": { url: "dashboard/components/news.py" },
+          "dashboard/components/pipeline.py": { url: "dashboard/components/pipeline.py" },
+          "dashboard/components/copilot.py": { url: "dashboard/components/copilot.py" },
+          "dashboard/components/overview.py": { url: "dashboard/components/overview.py" },
+          "dashboard/components/trading.py": { url: "dashboard/components/trading.py" },
+          "data/__init__.py": { url: "data/__init__.py" },
+          "data/loader.py": { url: "data/loader.py" },
+          "data/processed/training_summary.json": { url: "data/processed/training_summary.json" },
+          "data/processed/model_comparison.json": { url: "data/processed/model_comparison.json" },
+          "data/raw/fda_events.json": { url: "data/raw/fda_events.json" },
+          "data/raw/MRNA_stock.csv": { url: "data/raw/MRNA_stock.csv" },
+          "data/raw/PFE_stock.csv": { url: "data/raw/PFE_stock.csv" },
+          "data/raw/BNTX_stock.csv": { url: "data/raw/BNTX_stock.csv" },
+          "data/raw/NVAX_stock.csv": { url: "data/raw/NVAX_stock.csv" },
+          "data/raw/GILD_stock.csv": { url: "data/raw/GILD_stock.csv" },
+          "data/raw/AMGN_stock.csv": { url: "data/raw/AMGN_stock.csv" },
+          "data/processed/MRNA_backtest.csv": { url: "data/processed/MRNA_backtest.csv" },
+          "data/processed/PFE_backtest.csv": { url: "data/processed/PFE_backtest.csv" },
+          "data/processed/BNTX_backtest.csv": { url: "data/processed/BNTX_backtest.csv" },
+          "data/processed/NVAX_backtest.csv": { url: "data/processed/NVAX_backtest.csv" },
+          "data/processed/GILD_backtest.csv": { url: "data/processed/GILD_backtest.csv" },
+          "data/processed/AMGN_backtest.csv": { url: "data/processed/AMGN_backtest.csv" }
+        }
+      }, document.getElementById("root"));
+    </script>
+  </body>
+</html>
